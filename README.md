@@ -32,10 +32,10 @@ bash Audio64Tools.sh
 * entraras al menu para elegir tus opciones segun tus necesidades
 * DATO IMPORTANTE
 Tendras que mover los audios a la carpeta donde te ecuentras con el programa y despues ejecutar el programa como ya se te menciona que se ejecuta asi ` bash Audio64Tools.sh
-ejemlo del comando de como copiar tus audios a la carpeta actual del programa
-```
+ejemplo del comando de como copiar tus audios a la carpeta actual del programa
+
 cp /sdcard/donde_estan_tus_audios/* .
-```
+
 asi ejecutaras y pondras los audios que deseas modificar en la ruta actual del programa ahora si disfruta :)
 
 ### EXTRAS 
