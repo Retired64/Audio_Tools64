@@ -16,17 +16,27 @@
 
 * clona el repositorio con este comando
 ```
-git clone
+git clone https://github.com/Retired64/Audio_Tools64.git
 ```
-* despues dirigete a la carpeta clonada con ` cd Tu_carpeta ` para despues darle permiso de ejecucion al archivo
+* despues dirigete a la carpeta clonada con ` cd Audio_Tools64 ` para despues darle permiso de ejecucion al archivo
 ```
-chmod 777 El_archivo.sh
+cd Audio_Tools64
+```
+```
+chmod 777 Audio64Tools.sh
 ```
 * ejecuta el archivo para ver sus funciones con el siguiente comando
 ```
-bash El_nombre_del_archivo.sh
+bash Audio64Tools.sh
 ```
-* entraras al menu para elegir tus opciones segun tus necesidades 
+* entraras al menu para elegir tus opciones segun tus necesidades
+* DATO IMPORTANTE
+Tendras que mover los audios a la carpeta donde te ecuentras con el programa y despues ejecutar el programa como ya se te menciona que se ejecuta asi ` bash Android64Tools`
+ejemlo del comando de como copiar tus audios a la carpeta actual del programa
+```
+cp /sdcard/donde_estan_tus_audios/* .
+```
+asi ejecutaras y pondras los audios que deseas modificar en la ruta actual del programa ahora si disfruta :)
 
 ### EXTRAS 
 
