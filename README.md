@@ -31,7 +31,7 @@ bash Audio64Tools.sh
 ```
 * entraras al menu para elegir tus opciones segun tus necesidades
 * DATO IMPORTANTE
-Tendras que mover los audios a la carpeta donde te ecuentras con el programa y despues ejecutar el programa como ya se te menciona que se ejecuta asi ` bash Android64Tools`
+Tendras que mover los audios a la carpeta donde te ecuentras con el programa y despues ejecutar el programa como ya se te menciona que se ejecuta asi ` bash Audio64Tools.sh
 ejemlo del comando de como copiar tus audios a la carpeta actual del programa
 ```
 cp /sdcard/donde_estan_tus_audios/* .
@@ -40,6 +40,6 @@ asi ejecutaras y pondras los audios que deseas modificar en la ruta actual del p
 
 ### EXTRAS 
 
-LOS AUDIOS A FORMATEAR DEBERAN ESTAR EN LA CARPETA DONDE ESTARA ESTE  ` EL_ARCHIVO_.sh ` y aqui mismo se guardaran los nuevos ` .mp3 MONO ` 
+LOS AUDIOS A FORMATEAR DEBERAN ESTAR EN LA CARPETA DONDE ESTARA ESTE  ` Audio64Tools.sh ` y aqui mismo se guardaran los nuevos ` .mp3 MONO ` 
 PARA DESPUES FORMATEARLOS A .AIFF Y AHORA SI PODER REEMOLAZARLOS EN POR LOS ARCHIVOS DE TU JUEGO 
 
