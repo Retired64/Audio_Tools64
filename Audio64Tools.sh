@@ -100,7 +100,7 @@ show_banner() {
   | |  | | |_| | |_| | |_| | |
   |_|  |_|____/ \___/|____/|_|
   \e[0m
-SELECIONA ==> ${CYAN}[[[${RESET}${MAGENTA}PRIMERO${RESET}${CYAN}]]]${RESET} LA OPCION ${RED}[${RESET}${GREEN}√${RESET}${RED}]${RESET} ${CYAN}4${RESET}"
+MadeBy: XxCmbRxX==> ${CYAN}[[[${RESET}${MAGENTA}PRIMERO${RESET}${CYAN}]]]${RESET} LA OPCION ${RED}[${RESET}${GREEN}√${RESET}${RED}]${RESET} ${CYAN}4${RESET}"
 }
 while true; do
     show_banner
