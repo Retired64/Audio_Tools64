@@ -1,5 +1,5 @@
 ## FUNCIONES DISPONIBLES 
-![image](https://cdn.discordapp.com/attachments/1120450661050499083/1157851955817881691/Picsart_23-09-30_18-29-20-441.png?ex=651a1d2a&is=6518cbaa&hm=b6c6a797d141b342f3abef76a78307a66eb2cb89162258fa016fb2ce5b90ae3c&)
+![image](codigo.png)
 
 ### * Convertir archivos MP3 a AIFF
 * Esta función convierte archivos MP3 en AIFF y guarda los resultados en el mismo directorio. 
